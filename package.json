@@ -1,6 +1,6 @@
 {
   "name": "promise-dom-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ">  Listen to DOM events using ES2015 Promises and/or `async/await`",
   "main": "index.js",
   "scripts": {
