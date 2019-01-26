@@ -1,4 +1,4 @@
-const promiseDomEvent =
+export default
   domElement =>
     eventType =>
       new Promise((resolve, reject) => {

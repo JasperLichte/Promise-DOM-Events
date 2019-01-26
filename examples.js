@@ -1,3 +1,5 @@
+import promiseDomEvent from './index.js';
+
 (async _ => {
   
   const button = document.getElementById('btn')

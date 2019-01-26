@@ -1,0 +1,20 @@
+{
+  "name": "promise-dom-events",
+  "version": "1.0.0",
+  "description": ">  Listen to DOM events using ES2015 Promises and/or `async/await`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasperLichte/Promise-DOM-Events.git"
+  },
+  "keywords": [],
+  "author": "Jasper Lichte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasperLichte/Promise-DOM-Events/issues"
+  },
+  "homepage": "https://github.com/JasperLichte/Promise-DOM-Events#readme"
+}
