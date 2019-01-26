@@ -8,7 +8,7 @@ const promiseDomEvent =
         !eventType && reject(new Error('No event type provided!'))
 
         domElement.addEventListener(eventType, e => {
-          resolve(e);
-          domElement.removeEventListener(eventType, resolve, true);
-        }, true);
+          resolve(e)
+          domElement.removeEventListener(eventType, resolve, true)
+        }, true)
       })
