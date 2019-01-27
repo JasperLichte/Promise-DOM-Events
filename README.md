@@ -5,7 +5,7 @@
 
 ## Installation
 
-```bash
+```
 npm i promise-dom-events
 ```
 
